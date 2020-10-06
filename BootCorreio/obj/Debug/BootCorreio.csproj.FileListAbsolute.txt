@@ -1,0 +1,5 @@
+c:\users\rafael\documents\visual studio 2015\Projects\BootCorreio\BootCorreio\bin\Debug\BootCorreio.exe.config
+c:\users\rafael\documents\visual studio 2015\Projects\BootCorreio\BootCorreio\bin\Debug\BootCorreio.exe
+c:\users\rafael\documents\visual studio 2015\Projects\BootCorreio\BootCorreio\bin\Debug\BootCorreio.pdb
+c:\users\rafael\documents\visual studio 2015\Projects\BootCorreio\BootCorreio\obj\Debug\BootCorreio.exe
+c:\users\rafael\documents\visual studio 2015\Projects\BootCorreio\BootCorreio\obj\Debug\BootCorreio.pdb
